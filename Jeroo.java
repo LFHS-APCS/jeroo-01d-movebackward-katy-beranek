@@ -6,12 +6,12 @@ public class Jeroo extends JerooBase {
     // Put your own methods here
     public void moveBackward() {
   
-    kim.hop();
-  	kim.turn(LEFT);
-  	kim.turn(LEFT);
-  	kim.hop();
- 	  kim.turn(LEFT);
-  	kim.turn(LEFT);
+    hop();
+  	turn(LEFT);
+  	turn(LEFT);
+  	hop();
+ 	turn(LEFT);
+  	turn(LEFT);
     }
     
     
