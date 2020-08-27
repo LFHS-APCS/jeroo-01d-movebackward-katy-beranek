@@ -6,7 +6,6 @@ public class Jeroo extends JerooBase {
     // Put your own methods here
     public void moveBackward() {
   
-    hop();
   	turn(LEFT);
   	turn(LEFT);
   	hop();
