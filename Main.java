@@ -18,7 +18,6 @@ public class Main implements Directions {
      */
     public static void runJerooCode() {
        Jeroo kim = new Jeroo(3,4);
-       kim.moveBackward();
-    }
+        kim.moveBackward();
 
 }
